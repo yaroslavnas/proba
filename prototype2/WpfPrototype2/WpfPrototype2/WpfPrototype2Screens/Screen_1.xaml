@@ -1,0 +1,40 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:pi="http://schemas.microsoft.com/prototyping/2010/interactivity" x:Name="Screen_1_Name"
+	mc:Ignorable="d"
+	x:Class="WpfPrototype2Screens.Screen_1"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Button Content="Далее" HorizontalAlignment="Right" Margin="0,0,8,24" Style="{DynamicResource Button-Sketch}" Width="104" Height="32" VerticalAlignment="Bottom" FontWeight="Bold">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pi:NavigateToScreenAction TargetScreen="WpfPrototype2Screens.Screen_4"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+		<Button Content="О программе" Height="32" Margin="240,424,288,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" FontWeight="Bold">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pi:NavigateToScreenAction TargetScreen="WpfPrototype2Screens.Screen_3"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+		<Button Content="Справка" Margin="24,424,0,0" Style="{DynamicResource Button-Sketch}" FontWeight="Bold" Height="32" VerticalAlignment="Top" HorizontalAlignment="Left" Width="112">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pi:NavigateToScreenAction TargetScreen="WpfPrototype2Screens.Screen_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+		<TextBox Margin="0,0,0,96" TextWrapping="Wrap" Text="Электронный архив документацииттепловизионного и вибрационного контроля.&#xd;&#xa;Для работы с программой,необходимо задать условия поиска вариантов.&#xd;&#xa;&#xd;&#xa;" FontFamily="Arial" FontSize="18.667" HorizontalAlignment="Left" Width="640" Height="304" VerticalAlignment="Bottom"/>
+		<Image HorizontalAlignment="Right" Height="100" Margin="0,8,-12,0" VerticalAlignment="Top" Width="100"/>
+		<Image HorizontalAlignment="Right" Height="25" Source="Image 13.png" Stretch="Fill" VerticalAlignment="Bottom" Width="126" Margin="0,0,0,455"/>
+		<Image HorizontalAlignment="Left" Height="32" Margin="140,0,0,24" VerticalAlignment="Bottom" Width="44"/>
+		<Image HorizontalAlignment="Right" Height="32" Source="iCandy_JuniorYel 300.ico" Stretch="Fill" VerticalAlignment="Bottom" Width="40" Margin="0,0,244,24" RenderTransformOrigin="1,0.25"/>
+		<Image HorizontalAlignment="Left" Height="32" Margin="136,0,0,24" VerticalAlignment="Bottom" Width="48"/>
+		<Image HorizontalAlignment="Left" Height="32" Source="iCandy_JuniorYel 320.ico" Stretch="Fill" VerticalAlignment="Bottom" Width="40" Margin="144,0,0,24"/>
+	</Grid>
+</UserControl>

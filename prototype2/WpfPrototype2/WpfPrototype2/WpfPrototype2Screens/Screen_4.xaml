@@ -1,0 +1,76 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:pi="http://schemas.microsoft.com/prototyping/2010/interactivity" x:Name="Screen_4_Name"
+	mc:Ignorable="d"
+	x:Class="WpfPrototype2Screens.Screen_4"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBox Height="24" TextWrapping="Wrap" Text="Выбор критериев" VerticalAlignment="Top" FontFamily="Arial" FontSize="18.667" Background="#FF7CD0F9" HorizontalAlignment="Left" Width="640"/>
+		<TextBox HorizontalAlignment="Right" Height="24" Margin="0,0,440,400" TextWrapping="Wrap" Text="Тип оборудования" VerticalAlignment="Bottom" Width="192"/>
+		<TextBox Height="24" Margin="0,96,440,0" TextWrapping="Wrap" Text="Наименование оборудования" VerticalAlignment="Top" HorizontalAlignment="Right" Width="192"/>
+		<TextBox HorizontalAlignment="Right" Height="24" Margin="0,0,440,280" TextWrapping="Wrap" Text="Основание проведения контроля" VerticalAlignment="Bottom" Width="192"/>
+		<TextBox Height="24" Margin="0,136,440,0" TextWrapping="Wrap" Text="Состояние агрегата" VerticalAlignment="Top" HorizontalAlignment="Right" Width="192"/>
+		<TextBox HorizontalAlignment="Left" Height="24" Margin="416,0,0,400" TextWrapping="Wrap" Text="Цех" VerticalAlignment="Bottom" Width="80"/>
+		<TextBox HorizontalAlignment="Left" Height="24" Margin="416,0,0,320" TextWrapping="Wrap" Text="Год" VerticalAlignment="Bottom" Width="80"/>
+		<TextBox HorizontalAlignment="Left" Height="24" Margin="416,0,0,360" TextWrapping="Wrap" Text="Номер блока" VerticalAlignment="Bottom" Width="80"/>
+		<ComboBox x:Name="comboBox2" Height="24" Margin="224,0,304,360" VerticalAlignment="Bottom">
+			<ComboBoxItem Content="ЭПН-6"/>
+			<ComboBoxItem Content="ЭПН-7"/>
+			<ComboBoxItem Content="ЭПН-8"/>
+			<ComboBoxItem Content="ЭПН-9"/>
+			<ComboBoxItem Content="ЭПН-10"/>
+			<ComboBoxItem Content="РМН-11А"/>
+			<ComboBoxItem Content="РМН-11Б"/>
+			<ComboBoxItem Content="РМН-12А"/>
+			<ComboBoxItem Content="РМН-12Б"/>
+			<ComboBoxItem Content="КН-11А"/>
+			<ComboBoxItem Content="КН-11Б"/>
+			<ComboBoxItem Content="КН-11В"/>
+		</ComboBox>
+		<ComboBox x:Name="comboBox3" Height="24" Margin="224,0,304,320" VerticalAlignment="Bottom">
+			<ComboBoxItem Content="В допуске"/>
+			<ComboBoxItem Content="Превышение"/>
+		</ComboBox>
+		<ComboBox x:Name="comboBox4" Height="24" Margin="224,0,304,280" VerticalAlignment="Bottom">
+			<ComboBoxItem Content="По графику"/>
+			<ComboBoxItem Content="Внеплоновый"/>
+		</ComboBox>
+		<ComboBox x:Name="comboBox5" HorizontalAlignment="Left" Height="24" Margin="520,56,0,0" VerticalAlignment="Top" Width="112">
+			<ComboBoxItem Content="РТЦ-2"/>
+			<ComboBoxItem Content="ТЦ-5"/>
+			<ComboBoxItem Content="ХЦ"/>
+			<ComboBoxItem Content="РТЦ-1"/>
+			<ComboBoxItem Content="ЭЦ"/>
+		</ComboBox>
+		<ComboBox x:Name="comboBox6" HorizontalAlignment="Left" Height="24" Margin="520,96,0,0" VerticalAlignment="Top" Width="112">
+			<ComboBoxItem Content="3"/>
+			<ComboBoxItem Content="4"/>
+			<ComboBoxItem Content="5"/>
+		</ComboBox>
+		<ComboBox x:Name="comboBox7" Height="24" Margin="520,136,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="112">
+			<ComboBoxItem Content="2014"/>
+			<ComboBoxItem Content="2015"/>
+			<ComboBoxItem Content="2016"/>
+		</ComboBox>
+		<Button x:Name="search" Content="Искать" HorizontalAlignment="Right" Margin="0,208,8,0" Style="{DynamicResource Button-Sketch}" Width="88" RenderTransformOrigin="1,0.5" Height="32" VerticalAlignment="Top" Click="Button_Click_1"/>
+		<Image HorizontalAlignment="Right" Height="24" VerticalAlignment="Top" Width="80"/>
+		<Image HorizontalAlignment="Right" Height="24" Source="Image 13.png" Stretch="Fill" VerticalAlignment="Bottom" Width="126" Margin="0,0,0,456"/>
+		<Image HorizontalAlignment="Right" Height="32" Margin="0,208,112,0" VerticalAlignment="Top" Width="48"/>
+		<Image HorizontalAlignment="Left" Source="iCandy_JuniorYel 326.ico" Stretch="Fill" Width="40" Margin="500,0,0,240" Height="32" VerticalAlignment="Bottom" RenderTransformOrigin="1,0.5"/>
+		<Image HorizontalAlignment="Right" Height="40" Margin="0,0,24,8" VerticalAlignment="Bottom" Width="56"/>
+		<Image HorizontalAlignment="Left" Height="40" Source="iCandy_JuniorYel 262.ico" Stretch="Fill" VerticalAlignment="Top" Width="48" Margin="560,416,0,0" ToolTip="Назад">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pi:NavigateBackAction/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Image>
+		<ComboBox x:Name="comboBox1" Margin="224,58.04,304,0" VerticalAlignment="Top">
+			<ComboBoxItem Content="Вибрационное"/>
+			<ComboBoxItem Content="Тепловизионное"/>
+		</ComboBox>
+	</Grid>
+</UserControl>

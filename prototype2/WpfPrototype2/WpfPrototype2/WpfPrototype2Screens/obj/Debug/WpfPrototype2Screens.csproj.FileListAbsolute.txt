@@ -1,0 +1,58 @@
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.dll
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.pdb
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2Screens.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_1.baml
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SketchStyles.baml
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_1.g.cs
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens_MarkupCompile.cache
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.g.resources
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.dll
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.pdb
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_2.baml
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_2.g.cs
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_3.baml
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_3.g.cs
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_4.baml
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_4.g.cs
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_5.baml
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_5.g.cs
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_6.baml
+C:\Users\USER\Documents\Expression\Blend 4\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_6.g.cs
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.dll
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.pdb
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2Screens.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_1.baml
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_2.baml
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_3.baml
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_4.baml
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_5.baml
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_6.baml
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SketchStyles.baml
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_1.g.cs
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_2.g.cs
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_3.g.cs
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_4.g.cs
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_5.g.cs
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_6.g.cs
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens_MarkupCompile.cache
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.g.resources
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.dll
+C:\Users\Станислав\Desktop\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.pdb
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.dll
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.pdb
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2Screens.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_1.baml
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_2.baml
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_3.baml
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_4.baml
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_5.baml
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SketchStyles.baml
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_1.g.cs
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_2.g.cs
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_3.g.cs
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_4.g.cs
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen_5.g.cs
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens_MarkupCompile.cache
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.g.resources
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.dll
+C:\Users\USER\Downloads\prototype\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.pdb
